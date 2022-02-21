@@ -34,7 +34,7 @@ Constraints:
 
 # How & How I should do that?
 
-- Commit rapidly. We wanna see how you think and approach problems
-- Refactor code. Prepare for the future
-- Change whatever you want or think it's needed. In early-stage startup the possibilities are unlimited, however time is limited (4 hours)
-- "_There is no wrong answers or implementations_", however, be ready to discuss the decision you made
+- Commit rapidly; We wanna see how you think and approach problems
+- Refactor code; Prepare for the future
+- Change whatever you want or think it's needed; In early-stage startup the possibilities are unlimited, however time is limited (4 hours)
+- "_There is no wrong answers or implementations_". However, be ready to discuss the decisions you made
