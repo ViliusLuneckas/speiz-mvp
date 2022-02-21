@@ -1,0 +1,10 @@
+<h1>Available W&L spaces</h1>
+
+<% @spaces.each do |space| %>
+  <article id="space-<%= space.id %>">
+    <%= space.location %>
+    <img src="<%= space.image_url %>" alt="image" width="100">
+
+    <a href="/space/<%= space.id %>">learn more</a>
+  </article>
+<% end %>
